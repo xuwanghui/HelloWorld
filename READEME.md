@@ -11,3 +11,10 @@
 - 命令：
     + 配置用户名：`git config --global user.name "用户名"`
     + 配置邮箱：`git config --global email "邮箱"`
+
+## 把代码存储到.git仓储中
+- 1. 把代码放到仓储的门口
+    + `git add ./READEME.md`
+- 2. 把仓储门口的代码放到里面的房间
+    + `git commit -m "对这次添加的代码的解释说明"`
+
