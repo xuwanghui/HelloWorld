@@ -32,3 +32,15 @@
 
 ## git创建分支,切换分支
 - `git branch "分支名字"`
+
+- 合并时如果有冲突,需要手动处理,处理后需要再提交一次
+
+## GitHub
+- 不是git,只是一个网站
+- 只不过这个网站提供了允许别人通过git上传代码的功能
+
+### 提交代码到GitHub(当作git服务器来用)
+- `git push [地址] master`
+    + 示例: git push https://github.com/xuwanghui/HelloWorld.git master
+
+    + 会把当前分支的内容上传到远程的master分支上
