@@ -31,3 +31,4 @@
 - `git reset --hard Hearder~0`
 
 ## git创建分支,切换分支
+- `git branch "分支名字"`
